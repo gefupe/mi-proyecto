@@ -4,4 +4,10 @@ function saludo(){
 }
 
 saludo();
+
+function saludoPersonalizado($nombre){
+    echo "Hola " + $nombre;
+}
+
+saludoPersonalizado();
 ?>
