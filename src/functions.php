@@ -5,8 +5,8 @@ function saludo(){
 
 saludo();
 
-function saludoPersonalizado($nombre){
-    echo "Hola " + $nombre;
+function saludoPersonalizado($nombre, $apellidos){
+    echo "Hola " + $nombre + " " + $apellidos;
 }
 
 saludoPersonalizado();
