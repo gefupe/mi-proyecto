@@ -1,4 +1,3 @@
-He modificado lo que
-se
-indicaba
-en este archivo
+Modificamos el 
+archivo README.md
+desde GitHub
